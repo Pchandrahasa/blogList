@@ -1,0 +1,25 @@
+.avatarUrl {
+  height: 20px;
+  width: 20px;
+}
+
+.avatarUrl-container {
+  display: flex;
+  align-items: center;
+}
+.imageUrl-container {
+  height: 400px;
+  width: 100%;
+  border-radius: 10px;
+}
+.blogDetails-container {
+  margin: 10px;
+  padding: 10px;
+}
+
+.title {
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  font-size: 25px;
+}

@@ -1,0 +1,10 @@
+.bloglist-ul {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.TailSpin {
+  display: flex;
+  justify-content: center;
+}
